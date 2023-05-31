@@ -1,4 +1,4 @@
-# Google-ITprofetional-Project1
+# Google-ITprofessional-Project1
 # Scale and convert images using PIL
 
 Introduction
